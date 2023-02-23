@@ -4,7 +4,7 @@
  * @Author: Nick.
  * @Date: 2022-08-29 13:21:19
  * @LastEditors: Nick.
- * @LastEditTime: 2023-02-23 12:09:13
+ * @LastEditTime: 2023-02-23 13:09:14
  */
 export default {
     lang: 'zh-CN',
@@ -27,7 +27,9 @@ export default {
             appId: 'M9KOQX6ZL7',
             apiKey: '4b516cc60eebdb39b866d4314a2f1be9',
             // appKey: '4b516cc60eebdb39b866d4314a2f1be9',
-            indexName: 'footstone-wiki',
+            indexName: 'wiki',
+            placeholder: '请输入关键词',
+            buttonText: '搜索',
             searchParameters: {
                 // faeFilters: ['tags:php,app,arco_pro']
             }

@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a as n}from"./app.4779992d.js";const u=JSON.parse('{"title":"什么是？","description":"","frontmatter":{},"headers":[],"relativePath":"app/index.md"}'),r={name:"app/index.md"},d=n("",4),s=[d];function c(i,o,_,h,l,p){return t(),e("div",null,s)}const x=a(r,[["render",c]]);export{u as __pageData,x as default};
